@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Contested Diasporization in Wartime: Illiberal Mobilization of Russian-Speaking Migrants in Germany"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'The 2022 full-scale invasion of Ukraine by Russia has had a significant impact on the various networks of Russian-speakers residing abroad, leading to the rise of distinct and even conflicting diasporization projects. In Germany, a diverse population of Russian-speaking migrants—including ethnic German resettlers from the post-Soviet space, Jewish migrants, new economic migrants, political migrants, and people who came via other trajectories—faced a pivotal moment that forced many of them, along with their descendants, to redefine their identities and affiliations, often within completely opposing political frameworks. In this paper, we focus on one of those diasporization projects that is intertwined with a politicized Russianness, aligned with pro-Kremlin and nationalist narratives, which draws on a mix of Soviet nostalgia, imperial aspirations, conservative values, and a reactionary stance against the West. We define this project as an illiberal one and maintain that this identity formation has been facilitated by hybrid media platforms like Telegram, where pro-war narratives are circulated and reinforced. By examining this pro-war diasporization project, the [End Page 413]paper contributes to the broader discussion on how diasporas are constructed in the context of inter-state conflict, albeit at a distance. It reveals the active role the emerging communities play in shaping and sustaining hegemonic discourses that resonate with Russia’s current geopolitical ambitions. The findings provide insights into how diasporas are formed and transformed in response to critical global events, highlighting their role as both agents and arenas of political struggle, while paying attention to the agency of post-Soviet migrants in reshaping the diasporization projects.'
+date: 2024
+venue: 'Demokratizatsiya: The Journal of Post-Soviet Democratization'
+paperurl: 'https://muse.jhu.edu/pub/280/article/966146/summary'
+citation: 'Golova, Tatiana, and Liliia Sablina. "Contested Diasporization in Wartime: Illiberal Mobilization of Russian-Speaking Migrants in Germany." Demokratizatsiya: The Journal of Post-Soviet Democratization 32, no. 4 (2024): 413-439. https://muse.jhu.edu/article/966146.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

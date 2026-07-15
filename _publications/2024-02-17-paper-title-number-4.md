@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "The role of social media in facilitating minority mobilisation: The Russian-language pro-war movement in Germany amid the invasion of Ukraine"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+excerpt: 'This article examines the mobilisation of minority groups along ethnic and national lines through social media, an area that has not been fully explored. The study analyses the case of Russian-speaking minority members who were mobilised in support of the Russian invasion of Ukraine in 2022 via the messaging app Telegram. By taking a bottom-up perspective, the article reconstructs the pathways of the actors in these mobilisation processes and draws upon diverse literature in digital nationalism, social movements and media studies. The study suggests that social media facilitates minority mobilisation through three primary functions: It allows for the reproduction of ethnicised and racialised boundaries and homogenisation within ethnicised echo chambers and provides a ‘window of opportunity’ for micro, meso and macro levels of actor engagement in facilitating offline mobilisation. Overall, this article provides a theoretical foundation for understanding how social media enables and enhances minority mobilisation and introduces novel empirical data on the emerging pro-war movement prevalent on Telegram and in offline networks of the Russian-speaking minority in Germany. The study contributes to the developing field of user-generated nationalism and highlights the need for more bottom-up research on emerging patterns of online ethnicised mobilisation.'
+date: 2023-07-30
+venue: 'Nations and Nationalism'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/nana.12982'
+citation: 'Sablina, Liliia. "“We should stop the Islamisation of Europe!”: Islamophobia and right-wing radicalism of the Russian-speaking Internet users in Germany." Nationalities Papers 49, no. 2 (2021): 361-374.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

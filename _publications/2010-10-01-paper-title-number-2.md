@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Russia and Central European illiberal actors: mutual legitimation amid the full-scale invasion of Ukraine"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Over the past 15 years, the relationship between illiberal European actors and Russia has become increasingly intertwined. Russia has cultivated these relationships, viewing illiberal actors as a means of influencing Europe. Despite the full-scale invasion of Ukraine in February 2022, which could have been considered a critical juncture, some European parties and politicians did not sever their connections with Russia. This paper addresses this conundrum, focusing on how illiberal Central European actors, exemplified by the FPÖ and Hungary's Fidesz, continue to reference Russia in their rhetoric, and how Russian state rhetoric, represented by state-controlled media, constructs its discourse on Hungary and Austria in response. Through a multi-method analysis, the paper argues that European illiberal parties and Russia engage in mutual legitimation strategies, leveraging shared narratives to bolster their positions domestically and internationally. The paper identifies common argumentative frames used by illiberal actors, highlighting the intertwined nature of their legitimation strategies.'
+date: 2024-04-30
+venue: 'East European Politics'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/21599165.2024.2420967'
+citation: 'Wagner, F., Sablina, L., & Mikola, B. (2025). Russia and Central European illiberal actors: mutual legitimation amid the full-scale invasion of Ukraine. East European Politics, 41(1), 159–190. https://doi.org/10.1080/21599165.2024.2420967'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
