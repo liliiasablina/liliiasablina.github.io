@@ -6,5 +6,5 @@ excerpt: 'This article examines the mobilisation of minority groups along ethnic
 date: 2023-07-30
 venue: 'Nations and Nationalism'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/nana.12982'
-citation: 'Sablina, Liliia. "“We should stop the Islamisation of Europe!”: Islamophobia and right-wing radicalism of the Russian-speaking Internet users in Germany." Nationalities Papers 49, no. 2 (2021): 361-374.'
+citation: 'Sablina, Liliia. "The role of social media in facilitating minority mobilisation: The Russian‐language pro‐war movement in Germany amid the invasion of Ukraine." Nations and Nationalism 29, no. 4 (2023): 1422-1438.'
 ---
