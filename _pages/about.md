@@ -23,4 +23,4 @@ My current research projects focus on:
 
 ## Contact
 
-You can reach me at [liliia.sablina\@da-vienna.ac.at](mailto:liliia.sablina@da-vienna.ac.at).
+You can reach me at [liliia.sablina@da-vienna.ac.at](mailto:liliia.sablina@da-vienna.ac.at).
