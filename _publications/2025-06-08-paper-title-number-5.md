@@ -1,6 +1,7 @@
 ---
 title: "“We Should Stop the Islamisation of Europe!”: Islamophobia and Right-Wing Radicalism of the Russian-Speaking Internet Users in Germany"
-
+collection: publications
+category: manuscripts
 excerpt: 'Starting from 2015, the Russian-speaking residents in Germany have expressed their anti-refugee position in the form of rallies and rising voting support for the right-wing populist party, Alternative für Deutschland (AfD). Due to the absence of social cues, unlimited space, immediate responses, and minimal censorship online, platforms for communication have reflected the offline mobilization and became the major platforms for the spreadability of discriminatory discourse. This article sets out to investigate why Russian-speaking internet users residing in Germany justify anti-refugee discourse and how they construct the notion of “others.” Based on the netnographic analysis of the chosen online discussions and conducted interviews with its members, this article argues that, with the appearance of new “others,” Russian-speaking migrants have redefined their symbolic boundaries in order to draw the line between the incoming migrants and themselves—people with a migrant background. In many ways, participants of the analyzed discussions employed the politicized civilizational rhetoric that allowed them to redefine existing categorizations. This research explores, for the first time, the reasons lying behind the online populist activity of the Russian-speaking residents in Germany.'
 date: 2019-12-17
 venue: 'Nationalities Papers'
