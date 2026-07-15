@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
-collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
+title: "“We Should Stop the Islamisation of Europe!”: Islamophobia and Right-Wing Radicalism of the Russian-Speaking Internet Users in Germany"
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+excerpt: 'Starting from 2015, the Russian-speaking residents in Germany have expressed their anti-refugee position in the form of rallies and rising voting support for the right-wing populist party, Alternative für Deutschland (AfD). Due to the absence of social cues, unlimited space, immediate responses, and minimal censorship online, platforms for communication have reflected the offline mobilization and became the major platforms for the spreadability of discriminatory discourse. This article sets out to investigate why Russian-speaking internet users residing in Germany justify anti-refugee discourse and how they construct the notion of “others.” Based on the netnographic analysis of the chosen online discussions and conducted interviews with its members, this article argues that, with the appearance of new “others,” Russian-speaking migrants have redefined their symbolic boundaries in order to draw the line between the incoming migrants and themselves—people with a migrant background. In many ways, participants of the analyzed discussions employed the politicized civilizational rhetoric that allowed them to redefine existing categorizations. This research explores, for the first time, the reasons lying behind the online populist activity of the Russian-speaking residents in Germany.'
+date: 2019-12-17
+venue: 'Nationalities Papers'
+paperurl: 'https://www.cambridge.org/core/journals/nationalities-papers/article/abs/we-should-stop-the-islamisation-of-europe-islamophobia-and-rightwing-radicalism-of-the-russianspeaking-internet-users-in-germany/10DA0E48DBB2907569D7DC505EEE9394'
+citation: 'Sablina L. “We Should Stop the Islamisation of Europe!”: Islamophobia and Right-Wing Radicalism of the Russian-Speaking Internet Users in Germany. Nationalities Papers. 2021;49(2):361-374. doi:10.1017/nps.2019.76'
+---
