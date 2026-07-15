@@ -6,23 +6,93 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<h2>Manuscripts Under Review</h2>
+<hr />
+
+<h2>Manuscripts Under Review</h2>
+<hr />
+
+<ul>
+  <li>
+    <strong>Epistemic Mimicry in Wartime: How Russia’s State-Aligned Media Makes Disinformation Appear Credible.</strong>
+    R&amp;R.
+  </li>
+
+  <li>
+    <strong>The Russkiy Mir Project: Reconstructing the Russian Sphere of Influence.</strong>
+    With Erin K. Jenne and Mehmet Yavuz. R&amp;R.
+  </li>
+
+  <li>
+    <strong>Russian Transnational Authoritarianism: State Rhetoric, Ideological Entrepreneurs, and Participatory Propaganda.</strong>
+    Under review.
+  </li>
+
+  <li>
+    <strong>Foreign Information Manipulation and Eurosceptic Politicization: The Case of the Russian-Speaking Minority in Germany.</strong>
+    With Patrick Müller and Michele Knodt. Under review.
+  </li>
+</ul>
+
+<h2>Manuscripts in Progress</h2>
+<hr />
+
+<ul>
+  <li>
+    <strong>Contesting Multilateralism from Within: Illiberal Cooperation and the Politics of Alternative Election Observation among OSCE Participating States.</strong>
+    With Markus Pollak and Mehmet Yavuz.
+  </li>
+
+  <li>
+    <strong>Weaponizing Civilizationism: Inside the Russian and German Extremist Movements.</strong>
+  </li>
+
+  <li>
+    <strong>Political Protests in Russia: From the Loud Street to Silent Symbols.</strong>
+    Chapter for <em>The Oxford Handbook of Political Protest</em>.
+  </li>
+
+  <li>
+    <strong>Transnational Repression and Host-Society Perceptions: The Case of Post-2022 Russians in the European Union.</strong>
+  </li>
+
+  <li>
+    <strong>Authoritarian Delegitimation and Oppositional Response.</strong>
+    With Sophie Jagger and Tatiana Golova.
+  </li>
+
+  <li>
+    <strong>Authoritarian Diaspora Governance.</strong>
+  </li>
+</ul>
+
+<h2>Published Work</h2>
+<hr />
+
+<!-- Automatically display the separate files stored in _publications -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
+
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
+
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2>
+        <hr />
         {% assign title_shown = true %}
       {% endunless %}
+
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
@@ -31,6 +101,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
