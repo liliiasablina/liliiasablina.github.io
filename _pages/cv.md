@@ -55,43 +55,6 @@ Higher School of Economics, Saint Petersburg, 2012–2016
 
 - **Boliachevets, L., and I. Sablin.** 2016. “The Second or the Fourth World: Critique of Communism and Colonialism in Contemporary North Asian Literature.” *Ab Imperio*, 2, 385–425.
 
-## Manuscripts Under Review
-
-- **Epistemic Mimicry in Wartime: How Russia’s State-Aligned Media Makes Disinformation Appear Credible.** Minor revisions at *Media, War & Conflict*.
-
-- **The Russkiy Mir Project: Reconstructing the Russian Sphere of Influence.** With Erin K. Jenne and Mehmet Yavuz. Major revisions at *International Studies Quarterly*.
-
-- **Russian Transnational Authoritarianism: State Rhetoric, Ideological Entrepreneurs, and Participatory Propaganda.** Under review at *New Media & Society*.
-
-- **Foreign Information Manipulation and Eurosceptic Politicization: The Case of the Russian-Speaking Minority in Germany.** With Patrick Müller and Michele Knodt. Under review at the *Journal of Common Market Studies*.
-
-## Manuscripts in Progress
-
-- **Contesting Multilateralism from Within: Illiberal Cooperation and the Politics of Alternative Election Observation among OSCE Participating States.** With Markus Pollak and Mehmet Yavuz.
-
-- **Weaponizing Civilizationism: Inside the Russian and German Extremist Movements.**
-
-- **Political Protests in Russia: From the Loud Street to Silent Symbols.** Chapter for *The Oxford Handbook of Political Protest*.
-
-- **Transnational Repression and Host-Society Perceptions: The Case of Post-2022 Russians in the European Union.**
-
-- **Authoritarian Delegitimation and Oppositional Response.** With Sophie Jagger and Tatiana Golova.
-
-- **Authoritarian Diaspora Governance.**
-
-## Methodological Skills
-
-- **R:** Quantitative text analysis, structural topic models, dictionary and sentiment methods, survey analysis, regression, data wrangling, and visualisation.
-
-- **Python:** NLP and computational text-analysis pipelines, multilingual corpus construction, BERTopic, Transformers, pandas, NumPy, NLTK, and Matplotlib.
-
-- **LLM-based methods:** Prompt design, gold-standard annotation, classifier validation, local and API-based classification, vLLM, and HPC workflows.
-
-- **Qualitative methods:** MAXQDA, content and thematic analysis, digital ethnography, netnography, and mixed-methods research.
-
-- **Visualisation:** ggplot2, Datawrapper, Tableau, and publication-ready research graphics.
-
-- **Other tools:** LaTeX, Microsoft Excel, Word, and PowerPoint.
 
 ## Teaching Experience
 
